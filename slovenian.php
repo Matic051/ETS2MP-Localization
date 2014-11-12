@@ -1,0 +1,41 @@
+<?php
+$_lang["Download"] = "Prenesi";
+$_lang["Home"] = "Domov";
+$_lang["Status"] = "Status";
+$_lang["Username"] = "Uporabniško Ime";
+$_lang["Password"] = "Geslo";
+$_lang["Login"] = "Prijavi se";
+$_lang["Register"] = "Registriraj se";
+$_lang["Download latest version"] = "Prenesi najnovejšo verzijo";
+$_lang["Current release:"] = "Trenutna izdaja:";
+$_lang["Language:"] = "Jezik:";
+$_lang["JOIN"] = "Pridruži se";
+$_lang["Join thousands of truck enthusiasts on-line!"] = "Pridruži se tisočim ljubiteljem tovornjakov online!";
+$_lang["Voice interaction with other drivers - click to join TS3 server."] = "Govori z drugimi igralci - klikni da se pridružiš TS3 serverju.";
+$_lang["Latest news on our facebook."] = "Najbolj aktualne novice na našem Facebook-u";
+$_lang["registration.blocked"] = "Registracija je blokirana - Delamo na novih funkcijah zato moramo med tem blokirati registracijo.";
+$_lang["invalid.username.password"] = "Nepravilno geslo ali uporabniško ime!";
+$_lang["already.logged"] = "Ste že prijavljeni";
+$_lang["welcome"] = "Dobrodošel";
+$_lang["logout"] = "Izpiši se";
+$_lang["bans"] = "Ban-i";
+$_lang["download"] = "Prenesi";
+$_lang["version"] = "Verzija";
+$_lang["update.time"] = "Spremeni čas";
+$_lang["req.game.version"] = "Potrebna verzija igre";
+$_lang["requires"] = "potrebuje";
+$_lang["or.newer"] = "ali novejše";
+$_lang["game.client"] = "Client"; // Client should be enough
+$_lang["download.no.permissions"] = Za prenos modifikacije se morate prjaviti";
+$_lang["why.create.account"] = "Zakaj bi ustvarili račun?<br />Rašun lahko uporabite za prijavo v vse storitve (Forum, Igra, itd.). V prihodnosti bomo poskušali za vsakega uporabnika ustvariti statistike. Lahko tudi uredite svoj profil.";
+$_lang["website.title"] = "ETS2MP - Virtual trucking world - Multiplayer Mod für den Euro Truck Simulator 2 by SCS Software";
+$_lang["cookies.warning"] = "Ta stran uporablja <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">piškotke</a>. Če boste ostali na tej strani se strinjate z uporabo piškotkov.";
+$_lang["forum"] = "Forum";
+
+$_lang["You cannot create new account while you are logged."] = "Med tem ko ste prijavljeni je ustvarjanje novih profilov onemogočeno.";
+$_lang["You've been successfully registered."] = "Bili ste uspešno registrirani";
+$_lang["Unknown error"] = "Neznana napaka";
+$_lang["Username, mail or steamid is already taken."] = "Uporabniško ime, e-mail ali Steam ID je že zaseden.";
+$_lang["E-Mail"] = "E-Mail";
+$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "Če želite ustvariti račun potrebujete igro ETS2 na vašem Steam računu. Če igro imate preverite ali je vaš račun javen (Public). Če je račun privaten ga spremenite v javnega in pritisnite";
+$_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "Da se lahko registrirate se morate prijaviti v vaš Steam račun. Pritisnite gumb spodaj, ki vas bo preusmeril na Steam-ovo stran za preverjanje pristnosti";
